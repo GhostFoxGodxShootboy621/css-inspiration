@@ -1,2 +1,3 @@
 # css-inspiration
-good css styles i came across
+1. http://bettermotherfuckingwebsite.com/
+2. 
